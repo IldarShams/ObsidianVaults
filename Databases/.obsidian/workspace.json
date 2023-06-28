@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "7487be3c145d1579",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7757495f98f4879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dac1d816966f57cc",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d73e329f741a3b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dac51a4f43699b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f19c57cf117934",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30913c9e604e0875",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8116d472eaf73ee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ed377b29d0022d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5086364746094
+  },
+  "right": {
+    "id": "2785935654bcbe65",
+    "type": "split",
+    "children": [
+      {
+        "id": "762d2364f4cb6a91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c874437e9887b27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dfa8dd2d510c03f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TODO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42ce1c1ae51eecea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb38666fa44dbbbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO.md"
+              }
+            }
+          },
+          {
+            "id": "4f8d94ac57c192d6",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "ace11e60ecbfc012",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "juggl:Juggl global graph": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "dac1d816966f57cc",
+  "lastOpenFiles": [
+    "databases/ORDBMS/PostgreSQL/Database managment/Creating & deleting a table.md",
+    "TODO.md",
+    "databases/ORDBMS/PostgreSQL/Database managment/Managing Databases.md",
+    "databases/ORDBMS/PostgreSQL/Database managment/Creating & deleting a database.md",
+    "databases/ORDBMS/PostgreSQL/Database managment/Tablespaces.md",
+    "databases/ORDBMS/PostgreSQL/Content.md",
+    "databases/ORDBMS/PostgreSQL/Roles.md",
+    "databases/ORDBMS/PostgreSQL/PostgreSQL.md",
+    "databases/ORDBMS/PostgreSQL/psql.md",
+    "databases/ORDBMS/PostgreSQL/Modules.md",
+    "databases/SQL/Tables, Relations.md",
+    "WEB/REST API.md",
+    "src/images/Pasted image 20230501190008.png",
+    "VKR/GUI-Emitter-Service.md",
+    "Python Base/Requirements.md",
+    "ДОПОЛНИТЬ!.md",
+    "Untitled.canvas",
+    "excalibrain.md",
+    "Untitled",
+    "Excalidraw/Drawing 2023-06-24 19.21.34.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2023-06-24 18.59.54.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-24 18.53.16.excalidraw.md",
+    "Excalidraw/test.md",
+    "databases/ORDBMS/PostgreSQL/Database managment",
+    "databases/Database connection pool.md",
+    "Python Base/Anvil/База.md",
+    "Python Base/Anvil/Клиент.md",
+    "Python Base/Anvil/Сервер.md",
+    "databases/SQL/Normalization.md",
+    "databases/ORDBMS",
+    "databases/SQL",
+    "GIT/Aliases.md",
+    "databases/ORDBMS/PostgreSQL",
+    "databases/RDBMS",
+    "databases",
+    "WEB",
+    "src/images"
+  ]
+}

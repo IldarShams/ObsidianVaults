@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "c8d52a4d3ea0262c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bc3780d15157648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21dacb5f950a5f58",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-24 23.55.58.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "567e320cc02be237",
+    "type": "split",
+    "children": [
+      {
+        "id": "510fdbc04a267f29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d11048e51b1d1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54569d3fc041beb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20cde78f6e51c658",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5142af715ff1321a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f022fb9168fae758",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8835c3a91ce3589c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-24 23.55.58.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "686cf1f86a9d0976",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-24 23.55.58.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcc76d9012414676",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f4ce306803d853b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-24 23.55.58.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "21dacb5f950a5f58",
+  "lastOpenFiles": [
+    "Database/ER-diagram.md",
+    "Excalidraw/Drawing 2023-06-24 23.55.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-25 00.03.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-25 00.02.13.excalidraw.md",
+    "Excalidraw",
+    "Database"
+  ]
+}
